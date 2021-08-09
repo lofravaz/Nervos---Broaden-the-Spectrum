@@ -27,9 +27,9 @@ Nervos Network bounties +10
 ## Issue a Smart Contract Call to the Deployed Smart Contract
 | Bounty:  | Task  |
 | ------------- | ------------- |
-| Gitcoin: 3 |  screenshot |
-| |  text |
-| |  text |
+| Gitcoin: 3 |  [screenshot](./assets/3_call.png) |
+| |  [text](./text/3_hash.txt) |
+| |  [text](./text/3_call.txt) |
 | |  text |
 
 
