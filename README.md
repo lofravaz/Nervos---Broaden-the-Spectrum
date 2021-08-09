@@ -45,9 +45,9 @@ Nervos Network bounties +10
 ## Deploy the ERC20 Proxy Contract for the Deposited SUDT
 | Bounty:  | Task  |
 | ------------- | ------------- |
-| Gitcoin: 5 |  screenshot |
-| |  text |
-| |  screenshot |
-| |  text |
+| Gitcoin: 5 |  [screenshot](./assets/5_proxy.png) |
+| |  [text](./text/5_proxy.txt) |
+| |  [screenshot](./assets/5_balance.png) |
+| |  [text](./text/5_checked .txt) |
 
    
