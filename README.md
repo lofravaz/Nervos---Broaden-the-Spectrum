@@ -16,4 +16,12 @@ Nervos Network bounties +10
 | |  [screenshot](./assets/1_transaction.png) |
 
 
+## Deploy a Simple Ethereum Smart Contract on Polyjuice
+| Bounty:  | Task  |
+| ------------- | ------------- |
+| Gitcoin: 2 |  screenshot |
+| |  link |
+| |  screenshot |
+
+
    
