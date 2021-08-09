@@ -64,7 +64,7 @@ Nervos Network bounties +10
 ## Initiate Withdrawal Process from the Layer 2 back to Layer 1
 | Bounty:  | Task  |
 | ------------- | ------------- |
-| Gitcoin: 9 |  screenshot |
-| |  text |
-| |  text|
+| Gitcoin: 9 |  [screenshot](./assets/9_with.png) |
+| |  [text](./text/9_layer.txt) |
+| |  [text](./text/9_nervos_layer.txt)|
    
