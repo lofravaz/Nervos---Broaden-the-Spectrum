@@ -20,8 +20,8 @@ Nervos Network bounties +10
 | Bounty:  | Task  |
 | ------------- | ------------- |
 | Gitcoin: 2 |  [screenshot](./assets/2_deployed.png) |
-| |  text |
-| |  text |
+| |  [text](./text/hash.txt) |
+| |  [text](./text/deployed.txt)|
 
 
    
