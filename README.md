@@ -30,7 +30,7 @@ Nervos Network bounties +10
 | Gitcoin: 3 |  [screenshot](./assets/3_call.png) |
 | |  [text](./text/3_hash.txt) |
 | |  [text](./text/3_call.txt) |
-| |  text |
+| |  [text](./text/3_abi.txt) |
 
 
    
