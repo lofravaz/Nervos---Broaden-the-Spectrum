@@ -48,6 +48,6 @@ Nervos Network bounties +10
 | Gitcoin: 5 |  [screenshot](./assets/5_proxy.png) |
 | |  [text](./text/5_proxy.txt) |
 | |  [screenshot](./assets/5_balance.png) |
-| |  [text](./text/5_checked .txt) |
+| |  [text](./text/5_checked.txt) |
 
    
