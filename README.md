@@ -38,7 +38,7 @@ Nervos Network bounties +10
 | Gitcoin: 4 |  [link](https://explorer.nervos.org/aggron/address/ckt1qyq0wzzvaqravgmpgpfr94jjg6ehhy3wl99s90n04t) |
 | |  [screenshot](./assets/4_sudt.png) |
 | |  [link](https://explorer.nervos.org/aggron/transaction/0x278874f638f8d81d3537637fa0d118bc6ce232e64ef0487fab09328e7fed7996) |
-| |  [screenshot](4_layer.png) |
+| |  [screenshot](4_layer.png)  |
 | |  [text](./text/4_sudtid.txt) |
 
 
