@@ -35,7 +35,7 @@ Nervos Network bounties +10
 ## Issue an SUDT Token on Layer 1 and Deposit it to Layer 2
 | Bounty:  | Task  |
 | ------------- | ------------- |
-| Gitcoin: 4 |  link |
+| Gitcoin: 4 |  [link](https://explorer.nervos.org/aggron/address/ckt1qyq0wzzvaqravgmpgpfr94jjg6ehhy3wl99s90n04t) |
 | |  screenshot |
 | |  link |
 | |  screenshot |
