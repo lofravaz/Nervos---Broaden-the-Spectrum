@@ -8,4 +8,12 @@ Nervos Network bounties +10
 | |  [screenshot](./assets/0_nodes.png)  |
 
 
+## Create a Godwoken Account on the EVM Layer 2 Testnet
+| Bounty:  | Task  |
+| ------------- | ------------- |
+| Gitcoin: 1 |  screenshot |
+| |  link |
+| |  screenshot |
+
+
    
