@@ -1,0 +1,2 @@
+The SUDT ID from the console output after executing the deposit script
+Your sudt id: 1051
