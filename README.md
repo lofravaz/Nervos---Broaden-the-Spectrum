@@ -54,9 +54,9 @@ Nervos Network bounties +10
 ## Use Force Bridge to Deposit Tokens From Ethereum to Polyjuice
 | Bounty:  | Task  |
 | ------------- | ------------- |
-| Gitcoin: 5 |  screenshot |
-| |  text |
-| |  text |
+| Gitcoin: 5 |  [screenshot](./assets/6_deposit.png) |
+| |  [text](./text/6_deposit.txt) |
+| |  [text](./text/6_eth.txt) |
 | |  link |
 | |  link |
    
