@@ -66,5 +66,5 @@ Nervos Network bounties +10
 | ------------- | ------------- |
 | Gitcoin: 9 |  [screenshot](./assets/9_with.png) |
 | |  [text](./text/9_layer.txt) |
-| |  [text](./text/9_nervos_layer.txt)|
+| |  [text](./text/9_nervos_layer.txt)| 
    
