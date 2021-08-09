@@ -59,4 +59,12 @@ Nervos Network bounties +10
 | |  [text](./text/6_eth.txt) |
 | |  [link ETH](https://rinkeby.etherscan.io/tx/0x60344157ed1c949113dd6843cc1a1adf350359be296a2c4a3f2408bd0481a456) |
 | |  [link nervos](https://explorer.nervos.org/aggron/transaction/0xa523a653df73dafbef115e690549f9b03284c27085783896a2c48fc9febb921b)|
+
+
+## Initiate Withdrawal Process from the Layer 2 back to Layer 1
+| Bounty:  | Task  |
+| ------------- | ------------- |
+| Gitcoin: 9 |  screenshot |
+| |  text |
+| |  text|
    
